@@ -1,0 +1,9 @@
+mystyle.css
+body {
+  background-color: lightpink;
+}
+
+h1 {
+  color: black;
+  margin-left: 20px;
+}
